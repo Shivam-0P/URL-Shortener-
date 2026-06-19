@@ -147,5 +147,5 @@ This project is licensed under the MIT License.
 
 **Shivam Rawani**
 
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/Shivam-0P
+LinkedIn: https://www.linkedin.com/in/shivam-rawani
