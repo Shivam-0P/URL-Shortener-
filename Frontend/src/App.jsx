@@ -9,7 +9,7 @@ const App = () => {
   const onsubmit = async (e) =>{
   e.preventDefault();
      
-    const response = await axios.post('http://localhost:4000/url',{
+    const response = await axios.post('https://url-shortener-1-ya41.onrender.com/url',{
         url:data,
     })
     seturl(response.data.id);
