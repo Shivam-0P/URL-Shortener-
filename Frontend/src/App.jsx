@@ -31,7 +31,7 @@ const App = () => {
         onChange = {(e)=>setdata(e.target.value)}
         />
         <button type='submit'>Click</button>
-        <p className='short url'>{`http://localhost:4000/${url}`}</p>
+        <p className='short url'>{`https://url-shortener-1-ya41.onrender.com${url}`}</p>
         </form>
          </div>
         
